@@ -8,7 +8,7 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  background-image: url(fallout4.jpg);
+background-image: url(https://cdn3.vox-cdn.com/uploads/chorus_asset/file/4244087/Fallout4_Trailer_City_1433355574.0.png);
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -28,14 +28,14 @@ header {
   color: white;
 }
 
-/*positionnement et style du bouton mode d'emploi*/
+/*positionnement et style du bouton guide de survie*/
 #mode {
   margin-top: 50px;
   background: none;
   color: white;
 }
 
-/*Partie Accueillir un voyageu*/
+/*Partie Accueillir un survivant*/
 /*positionnement du texte*/
 .Personnage {
   padding-top: 20px;
@@ -47,31 +47,47 @@ header {
   font-weight: bold;
 }
 
-/*Positionnement du paragraphe Gagnez de l'argent*/
+/*Positionnement du paragraphe */
 #argent {
   padding-bottom: 20px;
 }
 
-/*positionnement du bouton estimez mes revenus et son texte*/
+/*positionnement du bouton liste noir et son texte*/
 .revenus {
   padding-top: 20px;
   text-align: center;
 }
 
-/*Partie Voir les destinations*/
+/*Partie choisir sa planque*/
 /*positionnement du bouton voir les destinations*/
 #destinations {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+/*image de l'abris 111*/
+.image1{
+width: 360px;
+height: 240px;
+}
+.image2{
+width: 360px;
+height: 200px;
+margin-top: 20px;
+}
+.image3{
+width: 360px;
+height: 240px;
+}
+/*image de l'abris 111*/
 
 /*footer*/
 /*positionnement footer et image de fond*/
 footer {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-image: url(../img/footer.jpg);
-}
+  background-image: url(http://www.fond-ecran-gratuit.biz/data/media/299/Fond_dcran_Noir_16.jpg);
+background-position: center;
+background-size: cover;}
 
 /*couleur de texte des listes*/
 .list-unstyled {
