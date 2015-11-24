@@ -8,7 +8,7 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  background-image: url(../img/voyage.jpg);
+  background-image: url(fallout4.jpg);
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -35,9 +35,9 @@ header {
   color: white;
 }
 
-/*Partie Accueillir un voyageur*/
+/*Partie Accueillir un voyageu*/
 /*positionnement du texte*/
-.voyageur {
+.Personnage {
   padding-top: 20px;
 }
 
